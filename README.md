@@ -32,7 +32,10 @@ SETUP:
 9. When the data set was written, the author mistakently wrote "England" when they actually meant "Scotland". Please update that entry in the database.<img width="675" alt="Screen Shot 2021-06-30 at 9 34 24 AM" src="https://user-images.githubusercontent.com/84462609/124005143-977b7a00-d98d-11eb-9064-ddf98534d9d8.png">
 
 10. Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.<img width="996" alt="Screen Shot 2021-06-30 at 10 02 01 AM" src="https://user-images.githubusercontent.com/84462609/124005189-a3ffd280-d98d-11eb-8dec-a5640fd91980.png">
+//Went the long way. Still trying to put together inner join
+11. All airlines that fly to New Zealand.<img width="796" alt="Screen Shot 2021-06-30 at 10 47 58 AM" src="https://user-images.githubusercontent.com/84462609/124007927-bb8c8a80-d990-11eb-8fed-617ee5a575f4.png">
 
-11. All airlines that fly to New Zealand.
-12. All airlines that do NOT fly to Scotland.
-13. All of the data for all vacation destinations.
+12. All airlines that do NOT fly to Scotland.<img width="648" alt="Screen Shot 2021-06-30 at 10 50 30 AM" src="https://user-images.githubusercontent.com/84462609/124008212-0ad2bb00-d991-11eb-9843-cd8427d38d9c.png">
+
+13. All of the data for all vacation destinations.<img width="1292" alt="Screen Shot 2021-06-30 at 10 52 43 AM" src="https://user-images.githubusercontent.com/84462609/124008513-584f2800-d991-11eb-8bea-5f9690d883ef.png">
+
